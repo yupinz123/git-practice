@@ -6,3 +6,5 @@ git練習用リポジトリ。
 - VSCodeから編集して push ← いまここ
 - 再更新
 AAA
+
+BBB
